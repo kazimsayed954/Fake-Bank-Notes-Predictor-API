@@ -8,4 +8,4 @@
 
 `pip install -U -r requirements.txt`
 
-3. ** uvicorn app:app --reload **
+3. **uvicorn app:app --reload**
