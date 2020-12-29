@@ -7,4 +7,5 @@
 2. **Install dependencies**
 
 `pip install -U -r requirements.txt`
+
 3. ** uvicorn app:app --reload **
